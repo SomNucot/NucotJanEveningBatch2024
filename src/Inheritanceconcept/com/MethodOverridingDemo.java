@@ -1,7 +1,5 @@
 package Inheritanceconcept.com;
 
-
-
 class AAA
 {
 	

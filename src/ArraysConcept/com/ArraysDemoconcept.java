@@ -5,6 +5,9 @@ import java.util.Arrays;
 public class ArraysDemoconcept {
 
 	public static void main(String[] args) {
+		
+		////Only similar type can be manulpuated 
+		//size is fixed
 		//Array literals
 	//The general form of a one-dimensional array declaration is 
 	//syntax-->	Data_type var-name[];
